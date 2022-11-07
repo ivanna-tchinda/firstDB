@@ -1,0 +1,23 @@
+{
+  "name": "firstdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanna-tchinda/firstDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanna-tchinda/firstDB/issues"
+  },
+  "homepage": "https://github.com/ivanna-tchinda/firstDB#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
